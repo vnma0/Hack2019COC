@@ -1,3 +1,22 @@
+<style TYPE="text/css">
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
+</style>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
+    }
+});
+MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
+
 # Chào mừng đến với cuộc thi HSGS Hackathon 2019!
 
 Cuộc thi HSGS Hackathon 2019 (được gọi từ đây dưới tên "Cuộc thi Hackathon") là một cuộc thi tham gia sáng tạo, thiết kế và phát triển trò chơi, được tổ chức bởi các thành viên nhóm Vườn Ươm A0 dưới sự quản lý của thầy cố vấn Hồ Đắc phương và trưởng nhóm kỹ thuật Nguyễn Tuấn Dũng.
@@ -14,8 +33,9 @@ Cuộc thi Hackathon được tổ chức theo hình thức thi theo nhóm. Mỗ
 ### 1.2. Yêu cầu
 
 Để có thể tham gia cuộc thi Hackathon, đội của bạn cần thỏa mãn tất cả các điều kiện dưới đây:
-- Có quyền truy cập vào một hoặc nhiều máy tính có kết nối Internet, trình biên soạn và các thư viện hỗ trợ liên quan phục vụ việc phát triển mã nguồn và gửi mã nguồn tới trang [`jams.gamejolt.io`](https://jams.gamejolt.io) hoặc GitHub&reg;.
-- Có một tài khoản dưới tên của đội trên trang [`jams.gamejolt.io`](https://jams.gamejolt.io) hoặc một tài khoản GitHub&reg;. Trong trường hợp sử dụng GitHub&reg;, đội của bạn cần lập ra một thư mục có tên `HSGS Hackathon 2019`. Trong đó, tệp miêu tả thư mục (ví dụ readme.md) cần có những thông tin cần thiết, bao gồm nhưng không giới hạn tới tên của các thành viên trong đội.
+
+-   Có quyền truy cập vào một hoặc nhiều máy tính có kết nối Internet, trình biên soạn và các thư viện hỗ trợ liên quan phục vụ việc phát triển mã nguồn và gửi mã nguồn tới trang [`jams.gamejolt.io`](https://jams.gamejolt.io) hoặc GitHub&reg;.
+-   Có một tài khoản dưới tên của đội trên trang [`jams.gamejolt.io`](https://jams.gamejolt.io) hoặc một tài khoản GitHub&reg;. Trong trường hợp sử dụng GitHub&reg;, đội của bạn cần lập ra một thư mục có tên `HSGS Hackathon 2019`. Trong đó, tệp miêu tả thư mục (ví dụ readme.md) cần có những thông tin cần thiết, bao gồm nhưng không giới hạn tới tên của các thành viên trong đội.
 
 ## 2. Cấu trúc
 
@@ -46,7 +66,8 @@ Mọi trò chơi được nộp phải sử dụng thư viện p5.js. Tuy nhiên
 ### 3.2 Ý tưởng va cơ chế
 
 Về ý tưởng và cơ chế, một trò chơi cần phải:
--   (A) Tuân theo, dù theo cách tuyệt đối hay tương đói, chủ đề của cuộc thi Hackathon: *Hybird*. 
+
+-   (A) Tuân theo, dù theo cách tuyệt đối hay tương đói, chủ đề của cuộc thi Hackathon: _Hybird_.
 -   (B) Có chế độ 2 người chơi.
 -   (C) Được đóng gói và có khả năng chạy hoàn chỉnh trong môi trường ngoại tuyến, hay nói cách khác là không cần tới sự truy cập vào mạng Internet.
 
@@ -72,13 +93,94 @@ Trong trường hợp một trò chơi đã được nộp tới Ban Tổ Chức
 
 Một lần nộp trò chơi sẽ được coi là hợp lệ nếu (A) trò chơi này khác với bất kỳ những trò chơi nào của các đội khác đã được nộp trước đó và (B) trò chơi này được nộp trên trang [`jams.gamejolt.io`](https://jams.gamejolt.io) hoặc thư mục GitHub&reg; với thẻ gắn hợp lệ.
 
-Một trò chơi sẽ được chấm theo 3 tiêu chí: ý tưởng, cơ chế và mã nguồn. Mỗi thành viên trong Ban Tổ Chức sẽ xác định số điểm thông qua một thang biểu điểm công khai. Điểm cuối cùng của trò chơi sẽ được xác định bằng trung bình cộng của tất cả các số điểm của từng thành viên trong Ban Tổ Chức.
+### 4.2. Thang biểu điểm
+
+Mọi tiêu chí chấm điểm của một trò chơi bất kỳ được nộp tới Ban Tổ Chức sẽ được chấm theo thang điểm sau:
+
+#### a. Trải nghiệm trò chơi
+
+| Điểm | Yêu cầu       |
+| ---- | ------------- |
+| 0    | Rất không tốt |
+| 1    | Không tốt     |
+| 2    | Ổn            |
+| 3    | Tốt           |
+| 4    | Khá tốt       |
+| 5    | Rất tốt       |
+
+#### b. Phát triển
+
+| Điểm | Yêu cầu                                                     |
+| ---- | ----------------------------------------------------------- |
+| 0    | Không phát triển gì thêm ngoài ý tưởng gợi ý từ Ban Tổ Chức |
+| 1    | Phát triển không đáng kể                                    |
+| 2    | Phát triển ít                                               |
+| 3    | Phát triển đủ                                               |
+| 4    | Phát triển tốt                                              |
+| 5    | Phát triển rất tốt                                          |
+
+#### c. Thuật toán
+
+| Điểm | Yêu cầu                                                |
+| ---- | ------------------------------------------------------ |
+| 0    | Không có thuật toán                                    |
+| 1    | Thuật toán rất không tốt, còn những lỗi nghiêm trọng   |
+| 2    | Thuật toán không tốt, còn những lỗi không nghiêm trọng |
+| 3    | Thuật toán ổn, không lỗi                               |
+| 4    | Thuật toán tốt, có phát triển                          |
+| 5    | Thuật toán xuất sắc, có tính sáng tạo cao              |
+
+-   Nếu đặc thù về ý tưởng hoặc cơ chế trò chơi khiến việc phát triển thuật toán là một điều khó khăn, được phép cộng thêm từ 0.5 đến 1 điểm, nhưng tuyệt đối tổng điểm không quá 5.
+
+-   Nếu đặc thù về ý tưởng hoặc cơ chế trò chơi khiến việc phát triển thuật toán chỉ là những mở rộng cơ bản, được phép trừ đi từ 0.5 đến 1 điểm, nhưng tuyệt đối tổng điểm không dưới 1.
+
+#### d. Đồ họa
+
+| Điểm | Yêu cầu                                                                                                                         |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Đồ họa rất xấu, gây khó khăn hoặc cản trở<br>trong việc chơi trò chơi, hoặc không có đồ họa                                     |
+| 2    | Đồ họa xấu, dù có thể chơi được<br>nhưng giảm đáng kể trải nghiệm trò chơi                                                      |
+| 3    | Đồ họa ổn định, tuy có thể không bắt mắt nhưng dễ nhìn ảnh hưởng<br>không đáng kể hoặc không ảnh hưởng tới trải nghiệm trò chơi |
+| 4    | Đồ họa tốt, góp phần cải thiện trải nghiệm trò chơi (ví dụ bắt mắt)                                                             |
+| 5    | Đồ họa xuất sắc, có tính sáng tạo và<br>cải thiện đáng kể trải nghiệm trò chơi                                                  |
+
+#### e. Mã nguồn
+
+| Điểm | Yêu cầu                                                                                                                |
+| ---- | ---------------------------------------------------------------------------------------------------------------------- |
+| 0    | Không đọc được code                                                                                                    |
+| 1    | Không có chú thích. Code rất xấu                                                                                       |
+| 2    | Có chú thích ở mức tối thiểu. Code đọc được                                                                            |
+| 3    | Có chú thích có thể hiểu được toàn bộ ý tưởng và cấu trúc code.<br>Code dễ đọc và thống nhất trong phong cách          |
+| 4    | Có chú thích đầy đủ.<br>Code dễ đọc và thống nhất trong phong cách                                                     |
+| 5    | Có chú thích đầy đủ, dễ hiểu, súc tích, hiểu được toàn bộ cấu trúc code.<br>Code dễ đọc và thống nhất trong phong cách |
+
+#### f. Diểm cộng
+
+| Điểm | Yêu cầu                                                                                                                        |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 0    | Không có gì đáng chú ý                                                                                                         |
+| 1    | Có những yếu tố đáng chú ý về đồ họa nhân vật,<br>có cải thiện trải nghiệm trò chơi                                            |
+| 2    | Có những yếu tố đáng chú ý về cơ chế trò chơi,<br>bao gồm đồ họa hiển thị cơ chế, có cải thiện<br>đáng kể trải nghiệm trò chơi |
+| 3    | Có những yếu tố sáng tạo, thêm tính năng mới vào trò chơi                                                                      |
+| 4    | Có những yếu tố sáng tạo, phát triển ý tưởng hoặc<br>cơ chế trò chơi vượt qua phạm vi gợi ý từ Ban Tổ Chức                     |
+| 5    | Có những yếu tố làm thay đổi toàn bộ ý tưởng hoặc<br>cơ chế trò chơi, không theo gợi ý từ Ban Tổ Chức                          |
+
+#### g. Tổng điểm
+
+Tổng điểm của một phiên bản được nộp của một trò chơi sẽ được tính theo công thức sau:
+$$ \begin{equation} 
+Tổng\ điểm = Điểm\ trải\ nghiệm\ trò\ chơi \times 25 + Điểm\ phát\ triển \times 15 + \\\\
+Điểm\ thuật\ toán \times 20 + Điểm\ đồ\ họa \times 20 + Điểm\ mã\ nguồn \times 15 + Điểm\ cộng \times 25 
+\end{equation} $$
+
+Đối với mỗi phiên bản trò chơi được nộp, các thành viên trong Ban Tổ Chức sẽ xác định số điểm thông qua một thang biểu điểm công khai nêu trên. Điểm cuối cùng của trò chơi sẽ được xác định bằng trung bình cộng của tất cả các số điểm của từng thành viên trong Ban Tổ Chức.
 
 Nếu một đội nộp nhiều phiên bản của một trò chơi, điểm của trò chơi đó sẽ được xác định bằng điểm cao nhất của từng phiên bản ứng với trò chơi đó.
 
 Cuối cùng, số điểm của một đội bằng tổng số điểm của các trò chơi mà đội đó nộp, trong khung thời gian ở phần 2, mục 1 được nêu ở trên.
 
-### 4.2. Xếp hạng
+### 4.3. Xếp hạng
 
 Hạng của một đội được tính bằng số đội có số điểm lớn hơn đội đó cộng thêm 1. Hạng của tất cả các đội sẽ được tổng hợp thành một Bảng Xếp Hạng và được dùng trong việc trao giải thưởng. Cần chú ý rằng hai đội bằng điểm nhau sẽ có thứ hạng bằng nhau.
 
