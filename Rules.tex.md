@@ -150,10 +150,15 @@ Mọi tiêu chí chấm điểm của một trò chơi bất kỳ được nộp
 #### g. Tổng điểm
 
 Tổng điểm của một phiên bản được nộp của một trò chơi sẽ được tính theo công thức sau:
-$$ \begin{equation} 
+$$
+\usepackage[utf8]{inputenc}
+\usepackage[vietnam]{babel}
+
+\begin{equation} 
 Tổng\ điểm = Điểm\ trải\ nghiệm\ trò\ chơi \times 25 + Điểm\ phát\ triển \times 15 + \\\\
 Điểm\ thuật\ toán \times 20 + Điểm\ đồ\ họa \times 20 + Điểm\ mã\ nguồn \times 15 + Điểm\ cộng \times 25 
-\end{equation} $$
+\end{equation}
+$$
 
 Đối với mỗi phiên bản trò chơi được nộp, các thành viên trong Ban Tổ Chức sẽ xác định số điểm thông qua một thang biểu điểm công khai nêu trên. Điểm cuối cùng của trò chơi sẽ được xác định bằng trung bình cộng của tất cả các số điểm của từng thành viên trong Ban Tổ Chức.
 
