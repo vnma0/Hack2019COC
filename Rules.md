@@ -1,22 +1,3 @@
-<style TYPE="text/css">
-code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
-</style>
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-    tex2jax: {
-        inlineMath: [['$','$'], ['\\(','\\)']],
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
-    }
-});
-MathJax.Hub.Queue(function() {
-    var all = MathJax.Hub.getAllJax(), i;
-    for(i = 0; i < all.length; i += 1) {
-        all[i].SourceElement().parentNode.className += ' has-jax';
-    }
-});
-</script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
-
 # Chào mừng đến với cuộc thi HSGS Hackathon 2019!
 
 Cuộc thi HSGS Hackathon 2019 (được gọi từ đây dưới tên "Cuộc thi Hackathon") là một cuộc thi tham gia sáng tạo, thiết kế và phát triển trò chơi, được tổ chức bởi các thành viên nhóm Vườn Ươm A0 dưới sự quản lý của thầy cố vấn Hồ Đắc phương và trưởng nhóm kỹ thuật Nguyễn Tuấn Dũng.
