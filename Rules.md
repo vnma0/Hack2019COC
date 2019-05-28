@@ -14,13 +14,13 @@ Cuộc thi Hackathon được tổ chức theo hình thức thi theo nhóm. Mỗ
 ### 1.2. Yêu cầu
 
 Để có thể tham gia cuộc thi Hackathon, đội của bạn cần thỏa mãn tất cả các điều kiện dưới đây:
-- Có một tài khoản dưới tên của đội trên trang [`jams.gamejolt.io`](jams.gamejolt.io) hoặc một tài khoản GitHub&reg;. Trong trường hợp sử dụng GitHub&reg;, đội của bạn cần lập ra một thư mục có tên `HSGS Hackathon 2019`. Trong đó, tệp miêu tả thư mục (ví dụ readme.md) cần có những thông tin cần thiết, bao gồm nhưng không giới hạn tới tên của các thành viên trong đội.
+- Có một tài khoản dưới tên của đội trên trang [`jams.gamejolt.io`](https://jams.gamejolt.io) hoặc một tài khoản GitHub&reg;. Trong trường hợp sử dụng GitHub&reg;, đội của bạn cần lập ra một thư mục có tên `HSGS Hackathon 2019`. Trong đó, tệp miêu tả thư mục (ví dụ readme.md) cần có những thông tin cần thiết, bao gồm nhưng không giới hạn tới tên của các thành viên trong đội.
 
 ## 2. Cấu trúc
 
 ### 2.1. Thời gian
 
-Cuộc thi Hackathon bao gồm 1 vòng duy nhất, bắt đầu lúc 08:00 (GMT+7), Thứ Tư, ngày 5 tháng 6 năm 2019, diễn ra trong 49 giờ và kết thúc vào lúc 09:00 (GTM+7), Thứ Sáu, ngày 7 tháng 6 năm 2019. Vòng thi này sẽ được tổ chức trực tuyến. Để tham gia, nhóm bạn cần có một tài khoản trên trang [`jams.gamejolt.io`](jams.gamejolt.io) và đăng ký vào cuộc thi (tên kỳ thi).
+Cuộc thi Hackathon bao gồm 1 vòng duy nhất, bắt đầu lúc 08:00 (GMT+7), Thứ Tư, ngày 5 tháng 6 năm 2019, diễn ra trong 49 giờ và kết thúc vào lúc 09:00 (GTM+7), Thứ Sáu, ngày 7 tháng 6 năm 2019. Vòng thi này sẽ được tổ chức trực tuyến. Để tham gia, nhóm bạn cần có một tài khoản trên trang [`jams.gamejolt.io`](https://jams.gamejolt.io) và đăng ký vào cuộc thi (tên kỳ thi).
 
 ### 2.2. Thông báo
 
@@ -44,7 +44,7 @@ Mọi trò chơi được nộp phải sử dụng thư viện p5.js. Tuy nhiên
 
 Đối với cuộc thi Hackathon, bạn được yêu cầu phải đăng tải mã nguồn trò chơi bằng 1 trong 2 cách sau:
 
--   (A) Đăng tải mã nguôn lên tài khoản của nhóm bạn trên [`jams.gamejolt.io`](jams.gamejolt.io) và gắn thẻ (hashtag kỳ thi) bất kỳ đâu trong phần miêu tả trò chơi.
+-   (A) Đăng tải mã nguôn lên tài khoản của nhóm bạn trên [`jams.gamejolt.io`](https://jams.gamejolt.io) và gắn thẻ (hashtag kỳ thi) bất kỳ đâu trong phần miêu tả trò chơi.
 
 -   (B) Đăng tải mã nguồn lên thư mục GitHub&reg; của nhóm bạn.
 
@@ -56,7 +56,7 @@ Bạn có trách nhiệm đảm bảo rằng mọi tệp mã nguồn cần thi�
 
 Một trò chơi có 3 phần: ý tưởng, cơ chế và mã nguồn. Hai trò chơi sẽ được coi là khác nhau nếu như chúng có một hoặc nhiều điểm khác biệt rõ ràng về ý tưởng hoặc cơ chế. Nếu không, hai trò chơi này sẽ được coi là 2 phiên bản của cùng một trò chơi. Quyết định đánh giá sự khác nhau giữa hai trò chơi bất kỳ thuộc về Ban Tổ Chức, thông qua hình thức biểu quyết quá bán. Trong trường hợp không có được đa số, quyền quyết định cuối cùng thuộc về thầy Hồ Đắc Phương.
 
-Một lần nộp trò chơi sẽ được coi là hợp lệ nếu (A) trò chơi này khác với bất kỳ những trò chơi nào của các đội khác đã được nộp trước đó và (B) trò chơi này được nộp trên trang [`jams.gamejolt.io`](jams.gamejolt.io) hoặc thư mục GitHub&reg; với thẻ gắn hợp lệ.
+Một lần nộp trò chơi sẽ được coi là hợp lệ nếu (A) trò chơi này khác với bất kỳ những trò chơi nào của các đội khác đã được nộp trước đó và (B) trò chơi này được nộp trên trang [`jams.gamejolt.io`](https://jams.gamejolt.io) hoặc thư mục GitHub&reg; với thẻ gắn hợp lệ.
 
 Một trò chơi sẽ được chấm theo 3 tiêu chí: ý tưởng, cơ chế và mã nguồn. Mỗi thành viên trong Ban Tổ Chức sẽ xác định số điểm thông qua một thang biểu điểm công khai. Điểm cuối cùng của trò chơi sẽ được xác định bằng trung bình cộng của tất cả các số điểm của từng thành viên trong Ban Tổ Chức.
 
@@ -79,7 +79,7 @@ Tuy nhiên, nếu thí sinh không ở lại qua đêm ở nhà C3, Ban Tổ Ch�
 
 ## 6. Vi phạm
 
-Trong trường hợp một đội nộp trò chơi ở thư mục GitHub&reg; không hợp lệ hoặc có phần miêu tả trò chơi trên trang [`jams.gamejolt.io`](jams.gamejolt.io) không hợp lệ, trò chơi đó sẽ không được xem xét.
+Trong trường hợp một đội nộp trò chơi ở thư mục GitHub&reg; không hợp lệ hoặc có phần miêu tả trò chơi trên trang [`jams.gamejolt.io`](https://jams.gamejolt.io) không hợp lệ, trò chơi đó sẽ không được xem xét.
 
 Một đội sẽ bị loại khỏi cuộc thi Hackathon và không dược phép nhận bất kỳ giải thưởng nào nếu có từ việc tham gia cuộc thi Hackathon, nếu Ban Tổ Chức có một hoặc nhiều lý do hợp lệ để tin rằng đội đó vi phạm một hoặc nhiều điều được nêu ra dưới đây:
 
