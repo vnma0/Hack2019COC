@@ -150,7 +150,7 @@ Mọi tiêu chí chấm điểm của một trò chơi bất kỳ được nộp
 #### g. Tổng điểm
 
 Tổng điểm của một phiên bản được nộp của một trò chơi sẽ được tính theo công thức sau:
-<p align="center"><img src="/tex/c4142c4cd43713410d5a8b67dc819d3b.svg?invert_in_darkmode&sanitize=true" align=middle width=823.7400303pt height=101.91780885pt/></p>
+<p align="center"><img src="/tex/6e7b063f99685714ea8d88ed3aa41d2d.svg?invert_in_darkmode&sanitize=true" align=middle width=823.7400303pt height=121.64383604999998pt/></p>
 
 Đối với mỗi phiên bản trò chơi được nộp, các thành viên trong Ban Tổ Chức sẽ xác định số điểm thông qua một thang biểu điểm công khai nêu trên. Điểm cuối cùng của trò chơi sẽ được xác định bằng trung bình cộng của tất cả các số điểm của từng thành viên trong Ban Tổ Chức.
 
