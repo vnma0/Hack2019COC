@@ -39,7 +39,7 @@ Kết quả và xếp hạng của tất cả các đội đều có thể đư�
 
 Bạn có thể sử dụng bất kỳ trình biên soạn nào, bao gồm cả những trình biên soạn trực tuyến. Ban Tổ Chức sẽ không cung cấp trình biên soạn nào, và sẽ không chịu trách nhiệm đối với bất kỳ hư hỏng về phần cứng hoặc phần mềm do việc sử dụng trình biên soạn.
 
-##### b. Ngôn ngữ
+#### b. Ngôn ngữ
 
 Mọi trò chơi được nộp phải được viết bằng thư viện p5.js. Tuy nhiên, ngoài p5.js, thí sinh được phép sử dụng bất kỳ thư viện ngoài nào, bao gồm thư viện có sẵn và thư viện tự tạo.
 
