@@ -151,8 +151,7 @@ Mọi tiêu chí chấm điểm của một trò chơi bất kỳ được nộp
 
 Tổng điểm của một phiên bản được nộp của một trò chơi sẽ được tính theo công thức sau:
 $$
-\usepackage[utf8]{inputenc}
-\usepackage[vietnam]{babel}
+\usepackage[utf8]{vietnam}
 
 \begin{equation} 
 Tổng\ điểm = Điểm\ trải\ nghiệm\ trò\ chơi \times 25 + Điểm\ phát\ triển \times 15 + \\\\
