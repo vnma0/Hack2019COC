@@ -153,8 +153,8 @@ Tổng điểm của một phiên bản được nộp của một trò chơi s�
 $$
 \documentclass[a4paper]{article}
 
-\usepackage[T5]{fontenc}
-\usepackage[utf8]{inputenc}
+\usepackage{fontspec}
+\usepackage{polyglossia}
 
 \begin{equation} 
 Tổng\ điểm = Điểm\ trải\ nghiệm\ trò\ chơi \times 25 + Điểm\ phát\ triển \times 15 + \\\\
