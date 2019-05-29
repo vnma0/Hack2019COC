@@ -44,7 +44,7 @@ Bạn có thể sử dụng bất kỳ trình biên soạn nào, bao gồm cả 
 
 Mọi trò chơi được nộp phải sử dụng thư viện p5.js. Tuy nhiên, ngoài p5.js, thí sinh được phép sử dụng bất kỳ thư viện ngoài nào, bao gồm thư viện có sẵn và thư viện tự tạo.
 
-### 3.2 Ý tưởng va cơ chế
+### 3.2 Ý tưởng và cơ chế
 
 Về ý tưởng và cơ chế, một trò chơi cần phải:
 
@@ -70,7 +70,7 @@ Một trò chơi có 3 phần: ý tưởng, cơ chế và mã nguồn. Hai trò 
 
 Trong trường hợp một trò chơi chưa từng được nộp tới Ban Tổ Chức và có 2 đội khác nhau cùng nộp 2 phiên bản được coi là giống nhau, Ban Tổ Chức sẽ căn cứ vào dấu thời gian của cả 2 phiên bản, dựa theo dấu thời gian xuất bản của GitHub&reg; hoặc của [`jams.gamejolt.io`](https://jams.gamejolt.io). Theo đó, đội nào nộp trước sẽ được tính điểm.
 
-Trong trường hợp một trò chơi đã được nộp tới Ban Tổ Chức bởi một đội A, và mội đội B (khác A) nộp một phiên bản (ở đây gọi là "Phiên bản B") được coi là khác so với phiên bản có số điểm cao nhất của đội A (ở đây được gọi là "Phiên bản A"), ban tổ chức sẽ chấm điểm phiên bản của đội B. Nếu như điểm của Phiên bản B cao hơn hẳn Phiên bản A, đội B sẽ được cộng thêm số điểm của Phiên bản B và đội A sẽ bị trừ đi số điểm của Phiên bản A.
+Trong trường hợp một trò chơi đã được nộp tới Ban Tổ Chức bởi một đội A, và mội đội B (khác A) nộp một phiên bản (ở đây gọi là "Phiên bản B") được coi là khác so với phiên bản có số điểm cao nhất của đội A (ở đây được gọi là "Phiên bản A"), ban tổ chức sẽ chấm điểm phiên bản của đội B. Nếu như điểm của Phiên bản B cao hơn hẳn Phiên bản A, đội B sẽ được cộng thêm số điểm của Phiên bản B và đội A sẽ bị trừ đi số điểm của Phiên bản A. Nếu không, tổng điểm của cả 2 đội đều được giữ nguyên.
 
 Một lần nộp trò chơi sẽ được coi là hợp lệ nếu (A) trò chơi này khác với bất kỳ những trò chơi nào của các đội khác đã được nộp trước đó và (B) trò chơi này được nộp trên trang [`jams.gamejolt.io`](https://jams.gamejolt.io) hoặc thư mục GitHub&reg; với thẻ gắn hợp lệ.
 
@@ -160,7 +160,7 @@ Cuối cùng, số điểm của một đội bằng tổng số điểm của c
 
 ### 4.3. Xếp hạng
 
-Hạng của một đội được tính bằng số đội có số điểm lớn hơn đội đó cộng thêm 1. Hạng của tất cả các đội sẽ được tổng hợp thành một Bảng Xếp Hạng và được dùng trong việc trao giải thưởng. Cần chú ý rằng hai đội bằng điểm nhau sẽ có thứ hạng bằng nhau.
+Hạng của một đội được tính bằng số đội có tổng điểm cuối cùng lớn hơn đội đó cộng thêm 1. Hạng của tất cả các đội sẽ được tổng hợp thành một Bảng Xếp Hạng và được dùng trong việc trao giải thưởng. Cần chú ý rằng hai đội bằng điểm nhau sẽ có thứ hạng bằng nhau.
 
 ## 5. Tham dự Hackathon và các sự kiện liên quan
 
@@ -173,7 +173,7 @@ Tuy nhiên, nếu thí sinh không ở lại qua đêm ở nhà C3, Ban Tổ Ch�
 
 ## 7. Vi phạm
 
-Trong trường hợp một đội nộp trò chơi không thỏa mãn một trong nhiều yêu cầu được nêu ở mục 3, trò chơi đó sẽ không được xem xét vào quá trình chấm điểm của cuộc thi Hackathon và tính vào thành tích cuối cùng của đội đó.
+Trong trường hợp một đội nộp trò chơi không thỏa mãn một hoặc nhiều yêu cầu được nêu ở mục 3, trò chơi đó sẽ không được xem xét vào quá trình chấm điểm của cuộc thi Hackathon và tính vào thành tích cuối cùng của đội đó.
 
 Một đội sẽ bị loại khỏi cuộc thi Hackathon và không dược phép nhận bất kỳ giải thưởng nào nếu có từ việc tham gia cuộc thi Hackathon, nếu Ban Tổ Chức có một hoặc nhiều lý do hợp lệ để tin rằng đội đó vi phạm một hoặc nhiều điều được nêu ra dưới đây:
 
