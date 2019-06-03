@@ -1,6 +1,6 @@
 # Chào mừng đến với cuộc thi HSGS Hackathon 2019!
 
-Cuộc thi HSGS Hackathon 2019 (được gọi từ đây dưới tên "Cuộc thi Hackathon") là một cuộc thi tham gia sáng tạo, thiết kế và phát triển trò chơi, được tổ chức bởi các thành viên nhóm Vườn Ươm A0 dưới sự quản lý của thầy cố vấn Hồ Đắc phương và trưởng nhóm kỹ thuật Nguyễn Tuấn Dũng.
+Cuộc thi HSGS Hackathon 2019 (được gọi từ đây dưới tên "Cuộc thi Hackathon") là một cuộc thi tham gia sáng tạo, thiết kế và phát triển trò chơi, được tổ chức bởi các thành viên nhóm Vườn Ươm A0 dưới sự quản lý của thầy cố vấn Hồ Đắc Phương và trưởng nhóm kỹ thuật Nguyễn Tuấn Dũng.
 Vui lòng đọc kỹ những thể lệ của HSGS Hackathon 2019 (gọi chung là "Thể lệ Hackathon") được trình bày dưới đây.
 
 ## 1. Tham gia
