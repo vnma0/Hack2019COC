@@ -16,7 +16,7 @@ Cuộc thi Hackathon được tổ chức theo hình thức thi theo nhóm. Mỗ
 Để có thể tham gia cuộc thi Hackathon, đội của bạn cần thỏa mãn tất cả các điều kiện dưới đây:
 
 -   Có quyền truy cập vào một hoặc nhiều máy tính có kết nối Internet, trình biên soạn và các thư viện hỗ trợ liên quan phục vụ việc phát triển mã nguồn và gửi mã nguồn tới trang [`jams.gamejolt.io`](https://jams.gamejolt.io) hoặc GitHub&reg;.
--   Có một tài khoản dưới tên của đội trên trang [`gamejolt.com`](https://gamejolt.com) hoặc một tài khoản GitHub&reg;. Trong trường hợp sử dụng GitHub&reg;, đội của bạn cần lập ra một kho mã nguồn (Repository) có tên `HSGS Hackathon 2019`. Trong đó, tệp miêu tả thư mục (ví dụ readme.md) cần có những thông tin cần thiết, bao gồm nhưng không giới hạn tới tên của các thành viên trong đội.
+-   Có một tài khoản dưới tên của đội trên trang [`gamejolt.com`](https://gamejolt.com) và một tài khoản GitHub&reg;. Trong trường hợp sử dụng GitHub&reg;, đội của bạn cần lập ra một kho mã nguồn (Repository) có tên `HSGS Hackathon 2019`. Trong đó, tệp miêu tả thư mục (ví dụ readme.md) cần có những thông tin cần thiết, bao gồm nhưng không giới hạn tới tên của các thành viên trong đội.
 
 ## 2. Cấu trúc
 
