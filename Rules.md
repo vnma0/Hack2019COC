@@ -22,7 +22,7 @@ Cuộc thi Hackathon được tổ chức theo hình thức thi theo nhóm. Mỗ
 
 ### 2.1. Thời gian
 
-Cuộc thi Hackathon bao gồm 1 vòng duy nhất, bắt đầu lúc 08:00 (GMT+7), Thứ Ba, ngày 4 tháng 6 năm 2019, diễn ra trong 96 giờ và kết thúc vào lúc 08:00 (GTM+7), Thứ Bảy, ngày 8 tháng 6 năm 2019. Vòng thi này sẽ được tổ chức trực tuyến. Để tham gia, nhóm bạn cần có một tài khoản trên trang [`jams.gamejolt.io`](https://jams.gamejolt.io) và đăng ký vào cuộc thi HSGS Hackathon 2019.
+Cuộc thi Hackathon bao gồm 1 vòng duy nhất, bắt đầu lúc 08:00 (GMT+7), Thứ Ba, ngày 4 tháng 6 năm 2019, diễn ra trong 96 giờ và kết thúc vào lúc 08:00 (GTM+7), Thứ Bảy, ngày 8 tháng 6 năm 2019. Vòng thi này sẽ được tổ chức trực tuyến. Để tham gia, nhóm bạn cần có một tài khoản trên trang [`gamejolt.com`](https://gamejolt.com) và đăng ký vào cuộc thi HSGS Hackathon 2019.
 
 ### 2.2. Thông báo
 
