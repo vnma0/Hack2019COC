@@ -22,13 +22,13 @@ Cuộc thi Hackathon được tổ chức theo hình thức thi theo nhóm. Mỗ
 
 ### 2.1. Thời gian
 
-Cuộc thi Hackathon bao gồm 1 vòng duy nhất, bắt đầu lúc 08:00 (GMT+7), Thứ Tư, ngày 5 tháng 6 năm 2019, diễn ra trong 49 giờ và kết thúc vào lúc 09:00 (GTM+7), Thứ Sáu, ngày 7 tháng 6 năm 2019. Vòng thi này sẽ được tổ chức trực tuyến. Để tham gia, nhóm bạn cần có một tài khoản trên trang [`jams.gamejolt.io`](https://jams.gamejolt.io) và đăng ký vào cuộc thi (tên kỳ thi).
+Cuộc thi Hackathon bao gồm 1 vòng duy nhất, bắt đầu lúc 08:00 (GMT+7), Thứ Ba, ngày 4 tháng 6 năm 2019, diễn ra trong 96 giờ và kết thúc vào lúc 08:00 (GTM+7), Thứ Bảy, ngày 8 tháng 6 năm 2019. Vòng thi này sẽ được tổ chức trực tuyến. Để tham gia, nhóm bạn cần có một tài khoản trên trang [`jams.gamejolt.io`](https://jams.gamejolt.io) và đăng ký vào cuộc thi HSGS Hackathon 2019.
 
 ### 2.2. Thông báo
 
 Mọi thông tin kỳ thi, bao gồm thể lệ và thời gian diễn ra kỳ thi, đều có thể được thay đổi. Bạn sẽ nhận được thông báo chính thức từ Ban Tổ Chức Hackathon nếu có bất kỳ thay đổi nào.
 
-Kết quả và xếp hạng của tất cả các đội đều có thể được tìm thấy trên trang (URL kỳ thi).
+Kết quả và xếp hạng của tất cả các đội đều có thể được tìm thấy trên trang [`HSGS Hackathon 2019`](http://jams.gamejolt.io/hsgshackathon2019).
 
 ## 3. Hình thức
 
@@ -48,14 +48,16 @@ Mọi trò chơi được nộp phải sử dụng thư viện p5.js. Tuy nhiên
 
 Về ý tưởng và cơ chế, một trò chơi cần phải:
 
--   (A) Tuân theo, dù theo cách tuyệt đối hay tương đói, chủ đề của cuộc thi Hackathon: _Hybird_.
+-   (A) Tuân theo, dù theo cách tuyệt đối hay tương đói, chủ đề của cuộc thi Hackathon: _Algorithmic_.
 -   (B) Được đóng gói và có khả năng chạy hoàn chỉnh trong môi trường ngoại tuyến, hay nói cách khác là không cần tới sự truy cập vào mạng Internet.
+
+Ngoài ra, các đội có thể tham khảo ý tưởng từ [`Ý tưởng HSGS Hackathon 2019`](https://drive.google.com/drive/folders/1YitntKGl0RyatyJW1kSvwUGaC8GESwkL?fbclid=IwAR38qcq6GhYM19ve3GjesW8p6Gs68nIiwQWchzfCUC3LOsAtUuMJSlu6Mos). Tuy nhiên, mọi ý tưởng bất kỳ, miễn tuân thủ chủ đề, dù tương đối hay tuyệt đối, thì đều được chấp thuận. Nếu một đội sử dụng ý tưởng không xuất hiện trong kho ý tưởng tham khảo của Ban Tổ Chức, đội đó sẽ được cộng trong mục Điểm cộng.
 
 ### 3.3. Nộp trò chơi
 
 Đối với cuộc thi Hackathon, bạn được yêu cầu phải đăng tải mã nguồn trò chơi bằng 1 trong 2 cách sau:
 
--   (A) Đăng tải mã nguôn lên tài khoản của nhóm bạn trên [`jams.gamejolt.io`](https://jams.gamejolt.io) và gắn thẻ (hashtag kỳ thi) bất kỳ đâu trong phần miêu tả trò chơi.
+-   (A) Đăng tải mã nguôn lên tài khoản của nhóm bạn trên [`jams.gamejolt.io`](https://jams.gamejolt.io) và gắn thẻ **#hsgshackathon2019 ** bất kỳ đâu trong phần miêu tả trò chơi.
 
 -   (B) Đăng tải mã nguồn lên thư mục GitHub&reg; của nhóm bạn.
 
@@ -166,7 +168,7 @@ Hạng của một đội được tính bằng số đội có tổng điểm c
 
 ## 5. Tham dự Hackathon và các sự kiện liên quan
 
-Vào tối thứ 5, ngày 6 tháng 6 năm 2019, dưới sự đồng ý của bố mẹ hoặc người giám hộ, các đội có thể ở lại nhà C3, ký túc xá Mễ Trì (182 Lương Thế Vinh, Thanh Xuân, Hà Nội). Tất cả các đội có thể tham gia ăn tối ở tiệc buffet Gala Dinner và ngủ qua đêm tại nhà C3. Mọi chi phí ăn uống và ngủ qua đêm sẽ được các nhà tài trợ của cuộc thi Hackathon chi trả, mọi thí sinh không cần phải trả thêm chi phí nào.
+Vào tối thứ 6, ngày 7 tháng 6 năm 2019, dưới sự đồng ý của bố mẹ hoặc người giám hộ, các đội có thể ở lại nhà C3, ký túc xá Mễ Trì (182 Lương Thế Vinh, Thanh Xuân, Hà Nội). Tất cả các đội có thể tham gia ăn tối ở tiệc buffet Gala Dinner và ngủ qua đêm tại nhà C3. Mọi chi phí ăn uống và ngủ qua đêm sẽ được các nhà tài trợ của cuộc thi Hackathon chi trả, mọi thí sinh không cần phải trả thêm chi phí nào.
 Ngoài những điều được nêu ở trên, thí sinh sẽ phải chịu trách nhiệm về chi phí ăn uống, di chuyển và sinh hoạt.
 
 Tuy nhiên, nếu thí sinh không ở lại qua đêm ở nhà C3, Ban Tổ Chức cuộc thi Hackathon sẽ không chịu trách nhiệm về bất kỳ phương diện nào của bất kỳ thiệt hại hoặc tai nạn nào về vật chất hoặc con người mà thí sinh đó gây ra hoặc gánh chịu trong khoảng thời gian cổng nhà C3 được khóa trong đêm thứ 5, ngày 6 tháng 6 năm 2019.
