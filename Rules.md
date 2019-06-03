@@ -9,7 +9,7 @@ Vui lòng đọc kỹ những thể lệ của HSGS Hackathon 2019 (gọi chung 
 
 Cuộc thi Hackathon là một cuộc thi phi lợi nhuận và mở cho toàn bộ mọi người có hứng thú tham gia. Tuy nhiên, cuộc thi được tổ chức dưới sự quản lý của thầy Hồ Đắc Phương. Do đó, để đăng ký tham gia cuộc thi HSGS Hackathon, bạn cần sự cho phép chính thức từ thầy Hồ Đắc Phương.
 
-Cuộc thi Hackathon được tổ chức theo hình thức thi theo nhóm. Mỗi nhóm sẽ không cố định số thành viên, nhưng tuyệt đối không vượt quá 04 thành viên.
+Cuộc thi Hackathon được tổ chức theo hình thức thi theo nhóm. Mỗi nhóm sẽ không cố định số thành viên, nhưng tuyệt đối không vượt quá 03 thành viên.
 
 ### 1.2. Yêu cầu
 
