@@ -55,7 +55,7 @@ Ngoài ra, các đội có thể tham khảo ý tưởng từ [`Ý tưởng HSGS
 
 ### 3.3. Nộp trò chơi
 
-Đối với cuộc thi Hackathon, bạn được yêu cầu phải đăng tải mã nguồn trò chơi bằng 1 trong 2 cách sau:
+Đối với cuộc thi Hackathon, bạn được yêu cầu phải đăng tải mã nguồn trò chơi bằng 2 bước sau:
 
 -   (A) Đăng tải mã nguôn lên tài khoản của nhóm bạn trên [`jams.gamejolt.io`](https://jams.gamejolt.io) và gắn thẻ **#hsgshackathon2019** bất kỳ đâu trong phần miêu tả trò chơi.
 
