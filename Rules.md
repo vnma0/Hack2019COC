@@ -49,8 +49,7 @@ Mọi trò chơi được nộp phải sử dụng thư viện p5.js. Tuy nhiên
 Về ý tưởng và cơ chế, một trò chơi cần phải:
 
 -   (A) Tuân theo, dù theo cách tuyệt đối hay tương đói, chủ đề của cuộc thi Hackathon: _Hybird_.
--   (B) Có chế độ 2 người chơi.
--   (C) Được đóng gói và có khả năng chạy hoàn chỉnh trong môi trường ngoại tuyến, hay nói cách khác là không cần tới sự truy cập vào mạng Internet.
+-   (B) Được đóng gói và có khả năng chạy hoàn chỉnh trong môi trường ngoại tuyến, hay nói cách khác là không cần tới sự truy cập vào mạng Internet.
 
 ### 3.3. Nộp trò chơi
 
@@ -136,20 +135,21 @@ Mọi tiêu chí chấm điểm của một trò chơi bất kỳ được nộp
 | 4    | Có chú thích đầy đủ.<br>Code dễ đọc và thống nhất trong phong cách                                                     |
 | 5    | Có chú thích đầy đủ, dễ hiểu, súc tích, hiểu được toàn bộ cấu trúc code.<br>Code dễ đọc và thống nhất trong phong cách |
 
-#### f. Diểm cộng
+#### f. Điểm cộng
 
-| Điểm | Yêu cầu                                                                                                                        |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 0    | Không có gì đáng chú ý                                                                                                         |
-| 1    | Có những yếu tố đáng chú ý về đồ họa nhân vật,<br>có cải thiện trải nghiệm trò chơi                                            |
-| 2    | Có những yếu tố đáng chú ý về cơ chế trò chơi,<br>bao gồm đồ họa hiển thị cơ chế, có cải thiện<br>đáng kể trải nghiệm trò chơi |
-| 3    | Có những yếu tố sáng tạo, thêm tính năng mới vào trò chơi                                                                      |
-| 4    | Có những yếu tố sáng tạo, phát triển ý tưởng hoặc<br>cơ chế trò chơi vượt qua phạm vi gợi ý từ Ban Tổ Chức                     |
-| 5    | Có những yếu tố làm thay đổi toàn bộ ý tưởng hoặc<br>cơ chế trò chơi, không theo gợi ý từ Ban Tổ Chức                          |
+| Điểm | Yêu cầu                                                                                                                                             |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0    | Không có gì đáng chú ý                                                                                                                              |
+| 1    | Có những yếu tố đáng chú ý về đồ họa nhân vật,<br>có cải thiện trải nghiệm trò chơi                                                                 |
+| 2    | Có những yếu tố đáng chú ý về cơ chế trò chơi<br>(ví dụ 2 người chơi), bao gồm đồ họa hiển thị cơ chế,<br>có cải thiện đáng kể trải nghiệm trò chơi |
+| 3    | Có những yếu tố sáng tạo, thêm tính năng mới vào trò chơi                                                                                           |
+| 4    | Có những yếu tố sáng tạo, phát triển ý tưởng hoặc<br>cơ chế trò chơi vượt qua phạm vi gợi ý từ Ban Tổ Chức                                          |
+| 5    | Có những yếu tố làm thay đổi toàn bộ ý tưởng hoặc<br>cơ chế trò chơi, không theo gợi ý từ Ban Tổ Chức                                               |
 
 #### g. Tổng điểm
 
 Tổng điểm của một phiên bản được nộp của một trò chơi sẽ được tính theo công thức sau:
+
 <p align="center"> Tổng điểm = Điểm trải nghiệm trò chơi x 25 + Điểm phát triển x 15 + <br> Điểm thuật toán x 20 + Điểm đồ họa x 20 + Điểm mã nguồn x 15 + Điểm cộng x 25 </p>
 
 Đối với mỗi phiên bản trò chơi được nộp, các thành viên trong Ban Tổ Chức sẽ xác định số điểm thông qua một thang biểu điểm công khai nêu trên. Điểm cuối cùng của trò chơi sẽ được xác định bằng trung bình cộng của tất cả các số điểm của từng thành viên trong Ban Tổ Chức.
