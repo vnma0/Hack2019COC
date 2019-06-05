@@ -177,6 +177,11 @@ Tuy nhiên, nếu thí sinh không ở lại qua đêm ở nhà C3, Ban Tổ Ch�
 
 ## 6. Giải thưởng
 
+### a. Trò chơi đầu tiên
+-   Đội đầu tiên nộp trò chơi có thể chạy hoàn chỉnh sẽ nhận giải thưởng trị giá 200.000 VND.
+-   Đội thứ hai nộp trò chơi có thể chạy hoàn chỉnh sẽ nhận giải thưởng trị giá 150.000 VND.
+-   Đội thứ ba nộp trò chơi có thể chạy hoàn chỉnh sẽ nhận giải thưởng trị giá 100.000 VND.
+
 ## 7. Vi phạm
 
 Trong trường hợp một đội nộp trò chơi không thỏa mãn một hoặc nhiều yêu cầu được nêu ở mục 3, trò chơi đó sẽ không được xem xét vào quá trình chấm điểm của cuộc thi Hackathon và tính vào thành tích cuối cùng của đội đó.
