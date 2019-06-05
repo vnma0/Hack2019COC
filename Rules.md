@@ -178,9 +178,10 @@ Tuy nhiên, nếu thí sinh không ở lại qua đêm ở nhà C3, Ban Tổ Ch�
 ## 6. Giải thưởng
 
 ### a. Trò chơi đầu tiên
--   Đội đầu tiên nộp trò chơi có điểm không bé hơn 360 và không có tiêu chí nào được đánh giá dưới 2 sẽ nhận giải thưởng trị giá 200.000 VND.
--   Đội thứ hai nộp trò chơi có điểm không bé hơn 360 và không có tiêu chí nào được đánh giá dưới 2 sẽ nhận giải thưởng trị giá 150.000 VND.
--   Đội thứ ba nộp trò chơi có điểm không bé hơn 360 và không có tiêu chí nào được đánh giá dưới 2 sẽ nhận giải thưởng trị giá 100.000 VND.
+Một trò chơi được coi là "chơi được" nếu có ít nhất 1 phiên bản của trò chơi đó có điểm không bé hơn 285 và không có tiêu chí nào được nêu ở mục 4.2 (ngoại trừ điểm cộng) được đánh giá dưới 2.
+-   Đội đầu tiên nộp trò chơi chơi được sẽ nhận giải thưởng trị giá 200.000 VND.
+-   Đội thứ hai nộp trò chơi chơi được sẽ nhận giải thưởng trị giá 150.000 VND.
+-   Đội thứ ba nộp trò chơi chơi được sẽ nhận giải thưởng trị giá 100.000 VND.
 
 ## 7. Vi phạm
 
