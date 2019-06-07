@@ -83,36 +83,36 @@ Mọi tiêu chí chấm điểm của một trò chơi bất kỳ được nộp
 
 #### a. Trải nghiệm trò chơi
 
-| Điểm | Yêu cầu       |
-| ---- | ------------- |
-| 0    | Không chơi được hoặc hầu như không chơi được |
-| 1    | Không đạt được trải nghiệm ban đầu của gợi ý ban đâu    |
-| 2    | Đạt trải nghiệm ban đầu của gợi ý ban đầu, không có tính chơi lại
-| 3    | Đạt trải nghiệm ban đầu của gợi ý ban đầu, có tính chơi lại|            |
-| 4    | Trải nghiệm tốt       |
-| 5    | Trải nghiệm đặc biệt tốt        |
+| Điểm | Yêu cầu       												|
+| ---- | ---------------------------------------------------------- |
+| 0    | Không chơi được hoặc hầu như không chơi được 				|
+| 1    | Trải nghiệm xấu, không đạt được mục tiêu của gợi ý ban đầu |
+| 2    | Trải nghiệm còn hạn chế            						|
+| 3    | Trải nghiệm được          									|
+| 4    | Trải nghiệm tốt, có những thành phần làm tăng độ thú vị    |
+| 5    | Trải nghiệm đặc biệt tốt       							|
 
 #### b. Phát triển
 
-| Điểm | Yêu cầu                                                                       |
-| ---- | ----------------------------------------------------------------------------- |
-| 0    | Không trình bày được ý tưởng gợi ý ban đầu của Ban Tổ Chức                    |
-| 1    | Không phát triển gì thêm ngoài ý tưởng gợi ý từ Ban Tổ Chức                   |
-| 2    | Phát triển thêm những ý tưởng tối thiểu cho trò chơi                          |
-| 3    | Phát triển đủ, có ý tưởng mới                                                 |
-| 4    | Phát triển tốt, có sử dụng ý tưởng, thuật toán mới thú vị                     |
-| 5    | Phát triển rất tốt, sự dụng nhiều ý tưởng mới hoặc ý tưởng mới đặc biệt thú vị|
+| Điểm | Yêu cầu                                                     					|
+| ---- | ------------------------------------------------------------------------------ |
+| 0    | Không trình bày được ý tưởng từ gợi ý ban đầu 								    |
+| 1    | Không phát triển gì thêm ngoài ý tưởng gợi ý từ Ban Tổ Chức                    |
+| 2    | Có những ý tưởng tối thiểu cho trò chơi                                        |
+| 3    | Phát triển đủ, có ý tưởng mới                                               	|
+| 4    | Phát triển tốt, có sử dụng ý tưởng, thuật toán mới thú vị                      |
+| 5    | Phát triển rất tốt, sự dụng nhiều ý tưởng mới hoặc ý tưởng mới đặc biệt thú vị |
 
 #### c. Thuật toán
 
-| Điểm | Yêu cầu                                                     |
-| ---- | ----------------------------------------------------------- |
-| 0    | Không có thuật toán                                         |
-| 1    | Thuật toán không tốt, còn những lỗi nghiêm trọng            |
-| 2    | Thuật toán ổn nhưng vẫn còn lỗi nhỏ, tuy không nghiêm trọng |
-| 3    | Thuật toán ổn, không lỗi                                    |
-| 4    | Thuật toán tốt, có phát triển                               |
-| 5    | Thuật toán xuất sắc, có tính phức tạp cao                   |
+| Điểm | Yêu cầu                                                |
+| ---- | ------------------------------------------------------ |
+| 0    | Không có thuật toán                                    |
+| 1    | Thuật toán không tốt, còn những lỗi nghiêm trọng       |
+| 2    | Thuật toán ổn, tuy còn những lỗi không nghiêm trọng    |
+| 3    | Thuật toán ổn, không lỗi                               |
+| 4    | Thuật toán tốt, có phát triển                          |
+| 5    | Thuật toán xuất sắc, có độ phức tạp cao                |
 
 -   Nếu đặc thù về ý tưởng hoặc cơ chế trò chơi khiến việc phát triển thuật toán là một điều khó khăn, được phép cộng thêm từ 0.5 đến 1 điểm, nhưng tuyệt đối tổng điểm không quá 5.
 
@@ -120,13 +120,13 @@ Mọi tiêu chí chấm điểm của một trò chơi bất kỳ được nộp
 
 #### d. Đồ họa
 
-| Điểm | Yêu cầu                                                                                                                         |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | Đồ họa rất xấu, gây khó khăn hoặc cản trở<br>trong việc chơi trò chơi, hoặc không có đồ họa                                     |
-| 2    | Đồ họa xấu, dù có thể chơi được<br>nhưng giảm đáng kể trải nghiệm trò chơi                                                      |
-| 3    | Đồ họa ổn định, tuy có thể không bắt mắt nhưng dễ nhìn<br> không ảnh hưởng tới trải nghiệm trò chơi |
-| 4    | Đồ họa tốt, góp phần cải thiện trải nghiệm trò chơi (ví dụ bắt mắt)                                                             |
-| 5    | Đồ họa xuất sắc, có tính sáng tạo và<br>cải thiện đáng kể trải nghiệm trò chơi                                                  |
+| Điểm | Yêu cầu                                                                                     |
+| ---- | ------------------------------------------------------------------------------------------- |
+| 1    | Đồ họa rất xấu, gây khó khăn hoặc cản trở<br>trong việc chơi trò chơi, hoặc không có đồ họa |
+| 2    | Đồ họa đạt mức tối thiểu, không cản trở quá trình chơi			                             |
+| 3    | Đồ họa ổn định, có giúp cải thiện trải nghiệm chơi 										 |
+| 4    | Đồ họa tốt, có các thành phần phức tạp (ví dụ như hiệu ứng)                              	 |
+| 5    | Đồ họa xuất sắc, có tính sáng tạo và cải thiện đáng kể trải nghiệm trò chơi                 |
 
 #### e. Mã nguồn
 
@@ -144,7 +144,7 @@ Mọi tiêu chí chấm điểm của một trò chơi bất kỳ được nộp
 | Điểm | Yêu cầu                                                                                                                                             |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0    | Không có gì đáng chú ý                                                                                                                              |
-| 1    | Có những yếu tố đáng chú ý về đồ họa,<br>có cải thiện trải nghiệm trò chơi                                                                 |
+| 1    | Có những yếu tố đáng chú ý về đồ họa,<br>có cải thiện trải nghiệm trò chơi                                                                 		 |
 | 2    | Có những yếu tố đáng chú ý về thay đổi cơ chế trò chơi<br>(ví dụ 2 người chơi), bao gồm đồ họa hiển thị cơ chế,<br>có cải thiện đáng kể trải nghiệm trò chơi |
 | 3    | Có những yếu tố sáng tạo, thêm tính năng mới vào trò chơi                                                                                           |
 | 4    | Có những yếu tố sáng tạo, phát triển ý tưởng hoặc<br>cơ chế trò chơi vượt qua phạm vi gợi ý từ Ban Tổ Chức                                          |
@@ -157,6 +157,7 @@ Tổng điểm của một phiên bản được nộp của một trò chơi s�
 <p align="center">
     <img src="https://quicklatex.com/cache3/0e/ql_00f7fba3cf6b8bbc31050ee0a654bf0e_l3.png"/>
 </p>
+
 
 Đối với mỗi phiên bản trò chơi được nộp, các thành viên trong Ban Tổ Chức sẽ xác định số điểm thông qua một thang biểu điểm công khai nêu trên. Điểm cuối cùng của trò chơi sẽ được xác định bằng trung bình cộng của tất cả các số điểm của từng thành viên trong Ban Tổ Chức.
 
