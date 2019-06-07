@@ -184,6 +184,12 @@ Một trò chơi được coi là "chơi được" nếu có ít nhất 1 phiên
 -   Đội thứ hai nộp trò chơi chơi được sẽ nhận giải thưởng trị giá 150.000 VND.
 -   Đội thứ ba nộp trò chơi chơi được sẽ nhận giải thưởng trị giá 100.000 VND.
 
+### b. Điểm cao nhất
+Theo bảng xếp hạng được định nghĩa trong mục 4.3, các đội đứng đầu sẽ được nhận giải thưởng. Cụ thể:
+-   Đội đứng thứ nhất sẽ được 1.500.000 VNĐ.
+-   Đội đứng thứ hai sẽ được 1.000.000 VNĐ.
+-   Đội đứng thứ ba sẽ được 500.000 VNĐ.
+
 ## 7. Vi phạm
 
 Trong trường hợp một đội nộp trò chơi không thỏa mãn một hoặc nhiều yêu cầu được nêu ở mục 3, trò chơi đó sẽ không được xem xét vào quá trình chấm điểm của cuộc thi Hackathon và tính vào thành tích cuối cùng của đội đó.
