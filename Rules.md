@@ -161,7 +161,7 @@ Tổng điểm của một phiên bản được nộp của một trò chơi s�
 
 Đối với mỗi phiên bản trò chơi được nộp, các thành viên trong Ban Tổ Chức sẽ xác định số điểm thông qua một thang biểu điểm công khai nêu trên. Điểm cuối cùng của trò chơi sẽ được xác định bằng trung bình cộng của tất cả các số điểm của từng thành viên trong Ban Tổ Chức.
 
-Nếu một đội nộp nhiều phiên bản của một trò chơi, điểm của trò chơi đó sẽ được xác định bằng điểm của phiên bản cuối cùng của trò chơi đó.
+Nếu một đội nộp nhiều phiên bản của một trò chơi, điểm của trò chơi đó sẽ được xác định bằng điểm của phiên bản có điểm cao nhất của trò chơi đó.
 
 Cuối cùng, số điểm của một đội bằng tổng số điểm của các trò chơi mà đội đó nộp, trong khung thời gian ở phần 2, mục 1 được nêu ở trên.
 
